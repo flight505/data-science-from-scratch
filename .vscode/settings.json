@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/usr/local/anaconda3/envs/dataSci/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
